@@ -1,0 +1,32 @@
+body{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+/*container*/
+/*header*/
+.header{
+    .header-inner{
+        h1{
+            a{
+                background-image: url(../image/header-logo/d’Perfume.png) ;
+                height: 38px;
+                width: 128px;
+                display: block;
+                text-indent: 101%;
+                overflow: hidden;
+                white-space: nowrap;
+            } 
+        }
+    }
+}
+/*subscribe*/
+/*footer*/
+.footer-inner{ 
+    .footer-inner-left{
+        img{
+            width: 128px;
+            height: 38px;
+        }
+    }
+    
+}

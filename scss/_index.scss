@@ -1,0 +1,26 @@
+.banner{
+    height: 780px;
+    background: url(banner1.png) no-repeat center center/cover;
+    .banner-inner{
+        padding-top: 295px;
+    }
+}
+.subscribe{
+    height: 600px;
+    background: url(subscribe.png)no-repeat center center/cover;
+    .subscribe-inner{
+        padding-top: 312px;
+
+    }
+}
+.card-roll{
+    background: #E0E0E0;
+    .soldout{
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+.navbar .active {
+    max-height: auto;
+  }

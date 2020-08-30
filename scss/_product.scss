@@ -1,0 +1,21 @@
+.product-nav{
+    ul{
+        a{
+            li{
+                line-height: 52px;
+            }
+            
+        }
+    }
+}
+.product{
+    ul{
+        a{
+            text-decoration: none;
+        }
+        :hover{
+            background-color: $light;
+        }
+    }
+    
+}
